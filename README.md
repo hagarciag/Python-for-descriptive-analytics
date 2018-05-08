@@ -25,14 +25,15 @@ el lenguaje Python para:
 
 Para realizar este tutorial usted debe:
 
-* Tener instalado Python y las librerías `numpy` y `pandas`. 
+* Tener instalado Python y las librerías `numpy` y `pandas`.
 
 * Tener instalado Jupyter.
-	
+
 **Juan David Velásquez Henao**    
 Universidad Nacional de Colombia, Sede Medellín  
 Facultad de Minas  
 Medellín, Colombia  
+[LinkedIn](https://co.linkedin.com/in/juan-david-velásquez-henao-94078979), [GitHub](https://github.com/jdvelasq), [ResearchGate](https://www.researchgate.net/profile/Juan_Velasquez8)
 
-[Licencia](https://github.com/jdvelasq/Python-for-descriptive-analytics/blob/master/LICENSE)
-	
+
+[Licencia](https://github.com/jdvelasq/Python-for-descriptive-analytics/tree/master/LICENSE)
