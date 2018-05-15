@@ -10,7 +10,7 @@ En este curso se aborda el uso del lenguaje Python para el análisis de datos y 
 
 El siguiente grafo muestra donde encaja este tutorial en el proceso.
 
-![readme-python-descriptive](images/readme-python-descriptive.jpg)
+![readme.jpg](images/readme.jpg)
 
 ## Objetivos
 
